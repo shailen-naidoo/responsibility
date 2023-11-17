@@ -16,7 +16,7 @@ Responsibility _to/for_ is a matter of relation between two or more entities, it
 
 It is important to note that responsibility _to/for_ is not a construct that is absolute, it is malleable in terms of the case that it is being applied to.
 
-## 3, The responsibility/fault fallacy
+## 3. The responsibility/fault fallacy
 
 Where responsibility _to/for_ is a matter of relation, the responsibility/fault fallacy is a matter of event. It makes it clear that there is a fallacy in regard to the relationship between fault and responsibility. You can be at *fault* for something but not necessarily *responsible* for the fault in terms of the remedy of the fault. Fault is past tense, while being responsible for the fault is either present or future tense hence why it is a matter of event. 
 
