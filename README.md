@@ -4,7 +4,7 @@ This is basically a love letter to the construct of [responsibility](https://en.
 
 ## 1. General responsibility
 
-Responsibility is the state of control over x, y and z. X, y and Z could be just about anything, a person, a cat, a piece of information. As long as the construct exists, there will be some aspect of responsibility associated to it.
+Responsibility is the state of control over x, y and z. X, y and z could be just about anything, a person, a cat, a piece of information. As long as the construct exists, there will be some aspect of responsibility associated to it.
 
 ## 2. Responsibility to/for
 
