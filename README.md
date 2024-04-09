@@ -1,6 +1,6 @@
 ![image](https://github.com/shailen-naidoo/responsibility/assets/26552540/6c1c03a9-0698-45f6-b39a-db5408528e17)
 
-I believe that there are three layers to responsibility, if a person is capable of explaining these layers of responsbility or at least can provide clear of exmaples of how they have exercised them in the real-world then they have some real-world experience. They are:
+I believe that there are three layers to responsibility, if a person is capable of explaining these layers of responsbility or at least can provide clear examples of how they have exercised them in the real-world then they have some real-world experience. They are:
 
 1. [General responsibility](#1-general-responsibility)
 2. [Responsibility to/for](#2-responsibility-tofor)
@@ -9,7 +9,7 @@ I believe that there are three layers to responsibility, if a person is capable 
 
 ## 1. General responsibility
 
-Responsibility is the state of control over x, y and z. X, y and z could be just about anything, a person, a cat, a piece of information. As long as the construct exists, there will be some aspect of responsibility associated to it.
+Responsibility is the state of control over &x&, y and z. X, y and z could be just about anything, a person, a cat, a piece of information. As long as the construct exists, there will be some aspect of responsibility associated to it.
 
 ## 2. Responsibility to/for
 
