@@ -40,9 +40,9 @@ These are some of the attributes of victim mentality, I believe that these are t
 
 Victim mentality does not directly relate to responsbility in the way that the three other points that I have listed in this document:
 
-1. General responsbility
-2. Responsbility to/for
-3. The responsibility/fault fallacy
+1. [General responsibility](#1-general-responsibility)
+2. [Responsibility to/for](#2-responsibility-tofor)
+3. [The responsibility/fault fallacy](#3-the-responsibilityfault-fallacy)
 
 It is more of a construct/concept that exists in parallel, it is important to be aware of and once you become aware of victim mentality and you are aware of **the responsibility/fault fallacy** you come to the awareness that all your actions, decisions, thoughts, pumping of your heart, the cells dividing in your body through the process of mitosis, the itch that you scratch on your back and everything else is in your state of control is your responsbility.
 
