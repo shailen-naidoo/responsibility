@@ -1,6 +1,4 @@
-# Responsibility
-
-> Keep in mind that this is a work in progress (WIP), I am aware that the writing could be a lot better and more fleshed out but I believe that the core concepts are there.
+![image](https://github.com/shailen-naidoo/responsibility/assets/26552540/6c1c03a9-0698-45f6-b39a-db5408528e17)
 
 Responsibility is not fullproof, it is not absolute, it has it's edge cases and can be broken in many ways. There are variations to responsbility. Personal responsbility is a form of responsbility where a person believes that everything that occurs in their lives is in their direct state of control regardless of what has occured to them, this form of responsibility breaks victim mentality. Even though personal responsibility is a nice idea, it is hard to put in pratice in many ways. I often think of the late, great Peter Tosh, an original founding member of Bob Marley & The Wailers who once said in one of his songs "_Everyone wants to go to heaven but no one wants to die_". I feel that this verse from Peter Tosh holds true for responsbility as well, it is nice to attach yourself to responsbility in your mind and believe yourself to be responsible but putting responsibility to practice in your life is hard, so hard that some people give in and have mid-life crises and throw tanturms due to their attachment to something that is fairly hard to maintain.
 
