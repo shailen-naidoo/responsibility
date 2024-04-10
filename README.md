@@ -30,7 +30,7 @@ For example, imagine you are in a restaurant, you accidentally knock over a glas
 
 ## 4. Accountability versus responsibility
 
-It is often the case that accountability and responsibility get conflated with each other, even though they overlap with each other they are used or applied in different ways. For example, a manager can pass on the responsibility to an employee or someone on their team for a task that needs to be done but in the event that the task owner does not complete the work or something goes wrong, the business will hold the mamager accountable for the work that is not done. Accountability is something is is chainable, the business can hold the manager accountable and so the manager can hold the task owner accountable.
+It is often the case that accountability and responsibility get conflated with each other, even though they overlap with each other they are used or applied in different ways. For example, a manager can pass on the responsibility to an employee or someone on their team for a task that needs to be done but in the event that the task owner does not complete the work or something goes wrong, the business will hold the mamager accountable for the work that is not done. Accountability is something that is chainable, the business can hold the manager accountable and so the manager can hold the task owner accountable.
 
 ## 5. Victim mentality
 
