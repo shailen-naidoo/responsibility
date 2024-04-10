@@ -1,15 +1,16 @@
 ![image](https://github.com/shailen-naidoo/responsibility/assets/26552540/6c1c03a9-0698-45f6-b39a-db5408528e17)
 
-I believe that there are four layers to responsibility, if a person is capable of explaining these layers of responsbility or at least can provide clear examples of how they have exercised them in the real-world then they have some real-world experience. They are:
+I believe that there are five layers to responsibility, if a person is capable of explaining these layers of responsbility or at least can provide clear examples of how they have exercised them in the real-world then they have some real-world experience. They are:
 
 1. [General responsibility](#1-general-responsibility)
 2. [Responsibility to/for](#2-responsibility-tofor)
 3. [The responsibility/fault fallacy](#3-the-responsibilityfault-fallacy)
-4. [Victim mentality](#4-victim-mentality)
+4. [Accountability versus responsibility](4-accountability-versus-responsibility)
+5. [Victim mentality](#5-victim-mentality)
 
 ## 1. General responsibility
 
-Responsibility is the state of control over x, y and z. X, y and z could be just about anything, a person, a cat, a piece of information. As long as the construct exists, there will be some aspect of responsibility associated to it.
+Responsibility is the state of control over `x`, `y` and `z`. `X`, `y` and `z` could be just about anything, a person, a cat, a piece of information. As long as the construct exists, there will be some aspect of responsibility associated to it.
 
 ## 2. Responsibility to/for
 
@@ -27,7 +28,11 @@ Where responsibility _to/for_ is a matter of relation, the responsibility/fault 
 
 For example, imagine you are in a restaurant, you accidentally knock over a glass and it breaks on the floor. You may be at fault for the glass breaking or at least the events that led up to glass breaking but the restaurant cannot hold you responsible for the remedy of the fault, they cannot make you pick up the broken glass. They will have to get a staff member to do so.
 
-## 4. Victim mentality
+## 4. Accountability versus responsibility
+
+It is often the case that accountability and responsibility get conflated with each other, even though they overlap with each other they are used or applied in different ways. For example, a manager can pass on the responsibility to an employee or someone on their team for a task that needs to be done but in the event that the task owner does not complete the work or something goes wrong, the business will hold the mamager accountable for the work that is not done. Accountability is something is is chainable, the business can hold the manager accountable and so the manager can hold the task owner accountable.
+
+## 5. Victim mentality
 
 Victim mentality is a mental state or belief that one is not responsible for misfortunes that occur in their lives, essentially a person that subscribes to a victimized mindset are:
 
@@ -43,6 +48,7 @@ Victim mentality does not directly relate to responsbility in the way that the t
 1. [General responsibility](#1-general-responsibility)
 2. [Responsibility to/for](#2-responsibility-tofor)
 3. [The responsibility/fault fallacy](#3-the-responsibilityfault-fallacy)
+4. [Accountability versus responsibility](4-accountability-versus-responsibility)
 
 It is more of a construct/concept that exists in parallel, it is important to be aware of and once you become aware of victim mentality and you are aware of **the responsibility/fault fallacy** you come to the awareness that all your actions, decisions, thoughts, pumping of your heart, the cells dividing in your body through the process of mitosis, the itch that you scratch on your back and everything else is in your state of control is your responsbility.
 
