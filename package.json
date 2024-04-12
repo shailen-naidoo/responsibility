@@ -1,0 +1,22 @@
+{
+  "name": "responsibility",
+  "version": "1.0.0",
+  "description": "The five layers of responsibility",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teddydaniels/responsibility.git"
+  },
+  "keywords": [
+    "responsibility"
+  ],
+  "author": "Shailen Naidoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teddydaniels/responsibility/issues"
+  },
+  "homepage": "https://github.com/teddydaniels/responsibility#readme"
+}
